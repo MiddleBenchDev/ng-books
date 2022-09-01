@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "books-mbd": {
+      "hosting": {
+        "angular-material-firebase-crud": [
+          "books-mbd"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "books-mbd"
+  }
+}
